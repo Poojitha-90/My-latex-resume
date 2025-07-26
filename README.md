@@ -28,9 +28,13 @@ Please **do not copy the content of my personal resume (`main(1).tex`)** — it 
 
 ---
 
+
 ## 📬 Contact
 
 If you'd like to connect, feel free to contact through mail-poojithagaddam2006@gmail.com
+
+⚠️ Note: This project includes personal content (`main(1).tex`) which is **not licensed for reuse**.  
+Please use the template structure only, and do not copy actual content.
 
 
 
